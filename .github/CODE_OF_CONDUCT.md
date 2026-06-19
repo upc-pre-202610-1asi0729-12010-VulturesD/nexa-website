@@ -39,4 +39,4 @@ Violations may result in a warning, temporary restriction from contributing, or 
 
 *This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.*
 
-*Universidad Peruana de Ciencias Aplicadas · Team King · Course 1ASI0730 · 2026-10*
+*Universidad Peruana de Ciencias Aplicadas · Team Nexa · Course 1ASI0729 · 2026-10*

@@ -1,33 +1,31 @@
 # Security Policy
 
-## Supported Versions
+## Scope
 
-This repository hosts the **Nexa public landing website** — a static site deployed via GitHub Pages. There is no backend runtime, authentication layer, or database in this repository.
+This repository hosts the Nexa public landing website. It is a static HTML/CSS/JavaScript site with no backend runtime, database, or authentication layer.
 
-| Scope | Status |
+| Area | Status |
 |---|---|
-| Static HTML / CSS / JS | ✅ In scope |
-| GitHub Pages deployment | ✅ In scope |
-| Third-party embeds (YouTube iframe) | ⚠️ Out of scope — report to provider |
-| WebApp backend (`nexa-webapp`) | ⚠️ Out of scope — report separately |
+| Static HTML/CSS/JS | In scope |
+| GitHub Actions workflows | In scope |
+| WebApp authentication | Report in `nexa-webapp` |
+| Platform REST API | Report in `nexa-platform` |
 
-## Reporting a Vulnerability
+## Reporting A Vulnerability
 
-If you discover a security concern related to this repository (e.g. exposed credentials in source, malicious script injection, or broken access in GitHub Actions workflows), please follow responsible disclosure:
+Do not open a public issue for vulnerabilities. Contact the maintainers privately and include:
 
-1. **Do not open a public GitHub Issue** for security vulnerabilities.
-2. **Contact the team directly** via the contact form on the live website:  
-   [https://upc-pre-202610-1asi0730-12242-king.github.io/nexa-website/pages/company.html#contact](https://upc-pre-202610-1asi0730-12242-king.github.io/nexa-website/pages/company.html#contact)
-3. Include a clear description of the issue, affected file(s), and steps to reproduce if applicable.
-
-We will acknowledge your report within **72 hours** and work to address confirmed issues as a priority.
+- affected file or page,
+- reproduction steps,
+- expected impact,
+- suggested fix if available.
 
 ## Scope Notes
 
-- This site does **not** process payments, store user credentials, or transmit sensitive personal data.
-- All login actions redirect externally to `nexa-webapp.onrender.com` — this is a separate repository and runtime environment.
-- Cookie consent is managed client-side via `localStorage`. No tracking cookies are set.
+- This website does not process payments.
+- This website does not store user credentials.
+- Cookie consent is handled client-side.
 
 ---
 
-*Universidad Peruana de Ciencias Aplicadas · Team King · Course 1ASI0730 · 2026-10*
+Team Nexa · Course 1ASI0729 · 2026-10

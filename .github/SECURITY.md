@@ -28,4 +28,4 @@ Do not open a public issue for vulnerabilities. Contact the maintainers privatel
 
 ---
 
-Team Nexa · Course 1ASI0729 · 2026-10
+Nexa Open Source · 2026

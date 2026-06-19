@@ -17,7 +17,7 @@ We are committed to maintaining an open, respectful, and collaborative environme
 - Harassment, discrimination, or personal attacks of any kind.
 - Posting or sharing offensive, derogatory, or inappropriate content.
 - Deliberately disrupting collaborative work or discussions.
-- Any conduct that would be considered inappropriate in a professional academic setting.
+- Any conduct that would be considered inappropriate in a professional collaborative setting.
 
 ## Scope
 
@@ -39,4 +39,4 @@ Violations may result in a warning, temporary restriction from contributing, or 
 
 *This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.*
 
-*Universidad Peruana de Ciencias Aplicadas · Team Nexa · Course 1ASI0729 · 2026-10*
+*Nexa Open Source · 2026*

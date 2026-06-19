@@ -42,7 +42,7 @@ Object.assign(TRANSLATIONS.es, {
   "shared.footer.resources": "Recursos",
   "shared.footer.productLinks": `<li><a href="about-the-product.html">Sobre el producto</a></li><li><a href="platform.html">Resumen de la plataforma</a></li><li><a href="platform.html#catalog">Datos de producto</a></li><li><a href="platform.html#inventory">Inventario operativo</a></li><li><a href="platform.html#traceability">Trazabilidad</a></li>`,
   "shared.footer.companyLinks": `<li><a href="about-the-team.html">Sobre el equipo</a></li><li><a href="company.html">Sobre Nexa</a></li><li><a href="company.html#support">Como acompanamos</a></li><li><a href="company.html#contact">Contacto</a></li><li><a href="faq.html">FAQ</a></li>`,
-  "shared.footer.resourceLinks": `<li><a href="pricing.html">Pricing</a></li><li><a href="https://nexa-webapp.onrender.com/#/auth/login">Login</a></li><li><a href="pricing.html#contact">Contact Us</a></li>`,
+  "shared.footer.resourceLinks": `<li><a href="pricing.html">Pricing</a></li><li><a href="https://nexa-webapp-fv2v.onrender.com/login">Login</a></li><li><a href="pricing.html#contact">Contact Us</a></li>`,
   "shared.footer.legal": "© 2026 Nexa Technologies, Inc. Todos los derechos reservados.",
   "shared.footer.privacy": "Privacy & Policy",
   "shared.footer.terms": "Terms & Conditions",
@@ -340,7 +340,7 @@ Object.assign(TRANSLATIONS.es, {
   "company.contact.form.messagePlaceholder": "¿Como es tu operacion? Quesos, charcuteria, lineas lacteas, ubicaciones: cualquier dato ayuda.",
   "company.contact.form.submit": "Contact Us",
   "company.contact.success.title": "Thanks. The Nexa team will review your request.",
-  "company.contact.success.copy": `This static academic form shows the intended contact flow only. No CRM, production backend or external automation is connected in v1.`,
+  "company.contact.success.copy": `This static static form shows the intended contact flow only. No CRM, production backend or external automation is connected in v1.`,
   "company.contact.success.note": "Mientras tanto",
   "company.contact.success.cta": "View pricing"
 });
@@ -781,7 +781,7 @@ Object.assign(TRANSLATIONS.en, {
   "shared.footer.resources": "Resources",
   "shared.footer.productLinks": `<li><a href="about-the-product.html">About the Product</a></li><li><a href="platform.html">Platform overview</a></li><li><a href="platform.html#catalog">Product data</a></li><li><a href="platform.html#inventory">Operational inventory</a></li><li><a href="platform.html#traceability">Traceability</a></li>`,
   "shared.footer.companyLinks": `<li><a href="about-the-team.html">About the Team</a></li><li><a href="company.html">About Nexa</a></li><li><a href="company.html#support">How we support you</a></li><li><a href="company.html#contact">Contact</a></li><li><a href="faq.html">FAQ</a></li>`,
-  "shared.footer.resourceLinks": `<li><a href="pricing.html">Pricing</a></li><li><a href="https://nexa-webapp.onrender.com/#/auth/login">Login</a></li><li><a href="pricing.html#contact">Contact Us</a></li>`,
+  "shared.footer.resourceLinks": `<li><a href="pricing.html">Pricing</a></li><li><a href="https://nexa-webapp-fv2v.onrender.com/login">Login</a></li><li><a href="pricing.html#contact">Contact Us</a></li>`,
   "shared.footer.legal": "© 2026 Nexa Technologies, Inc. All rights reserved.",
   "shared.footer.privacy": "Privacy & Policy",
   "shared.footer.terms": "Terms & Conditions",
@@ -1080,7 +1080,7 @@ Object.assign(TRANSLATIONS.en, {
   "company.contact.form.messagePlaceholder": "What does your operation look like? Cheeses, charcuterie, dairy lines, locations — any detail helps.",
   "company.contact.form.submit": "Contact Us",
   "company.contact.success.title": "Thanks. The Nexa team will review your request.",
-  "company.contact.success.copy": `This static academic form shows the intended contact flow only. No CRM, production backend or external automation is connected in v1.`,
+  "company.contact.success.copy": `This static static form shows the intended contact flow only. No CRM, production backend or external automation is connected in v1.`,
   "company.contact.success.note": "In the meantime",
   "company.contact.success.cta": "View pricing"
 });

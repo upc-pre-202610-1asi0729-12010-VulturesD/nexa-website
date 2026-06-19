@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const WEBAPP_BASE = 'https://nexa-webapp.onrender.com';
+  const WEBAPP_LOGIN_URL = 'https://nexa-webapp-fv2v.onrender.com/login';
   const getLang = () => (document.documentElement.lang.startsWith('es') ? 'es' : 'en');
 
   const copy = {
@@ -513,7 +513,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('[data-login-placeholder]').forEach((button) => {
     button.addEventListener('click', (event) => {
       event.preventDefault();
-      window.location.href = `${WEBAPP_BASE}/#/auth/login`;
+      window.location.href = WEBAPP_LOGIN_URL;
     });
   });
 

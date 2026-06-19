@@ -33,7 +33,7 @@ http://localhost:8000
 - [ ] No broken internal links.
 - [ ] Mobile and desktop layouts remain usable.
 - [ ] No generated files, `.DS_Store`, or IDE files are committed.
-- [ ] Public copy does not mention outdated Team Nexa, Open Source, Vue, or .NET platform content.
+- [ ] Public copy does not mention any previous course implementation or unrelated technology stack.
 
 ---
 

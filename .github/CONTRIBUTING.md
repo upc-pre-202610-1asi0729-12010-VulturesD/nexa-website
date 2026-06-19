@@ -25,7 +25,7 @@ http://localhost:8000
 - Keep JavaScript in `assets/js`.
 - Do not introduce a frontend framework for this static website.
 - Keep visible copy aligned with Nexa B2B cold-chain operations.
-- Use Team Nexa and course 1ASI0729 Open Source references.
+- Use Nexa Open Source project references.
 
 ## Pull Request Checklist
 
@@ -37,4 +37,4 @@ http://localhost:8000
 
 ---
 
-Team Nexa · Course 1ASI0729 · 2026-10
+Nexa Open Source · 2026

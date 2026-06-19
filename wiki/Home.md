@@ -17,4 +17,4 @@ This wiki documents the static website structure, local preview workflow, and Op
 
 ---
 
-Team Nexa · Course 1ASI0729 · 2026-10
+Nexa Open Source · 2026
